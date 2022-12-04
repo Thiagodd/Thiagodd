@@ -4,8 +4,6 @@
 
 ![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagodd&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ## Principais tecnologias
 
